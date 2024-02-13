@@ -1,0 +1,22 @@
+{
+  "kind": "singleType",
+  "collectionName": "homes",
+  "info": {
+    "singularName": "home",
+    "pluralName": "homes",
+    "displayName": "Home"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "HomeComponents": {
+      "type": "dynamiczone",
+      "components": [
+        "home.hero-banner",
+        "home.contact-detals"
+      ]
+    }
+  }
+}
