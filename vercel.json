@@ -1,8 +1,8 @@
 {
     "rewrites": [
         {
-        "source": "https://cms.vince-raffaut.dev/",
-        "destination": "https://cms.vince-raffaut.dev/admin"
+        "source": "/",
+        "destination": "/admin"
         }
     ]
 }
