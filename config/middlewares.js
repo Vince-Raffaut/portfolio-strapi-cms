@@ -9,7 +9,7 @@ module.exports = [
     config: {
       enabled: true,
       headers: '*',
-      origin: ['http://localhost:1337', 'http://cms.vince-raffaut.dev']
+      origin: ['http://localhost:1337', 'https://cms.vince-raffaut.dev']
     }
   },
   'strapi::query',
