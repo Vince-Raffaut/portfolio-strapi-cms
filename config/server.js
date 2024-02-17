@@ -7,5 +7,5 @@ module.exports = ({ env }) => ({
   webhooks: {
     populateRelations: env.bool('WEBHOOKS_POPULATE_RELATIONS', false),
   },
-  url: 'https://vince-raffaut.dev'
+  url: 'https://cms.vince-raffaut.dev'
 });
