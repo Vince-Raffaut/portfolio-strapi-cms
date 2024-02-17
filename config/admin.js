@@ -1,5 +1,4 @@
 module.exports = ({ env }) => ({
-  url: "build",
   auth: {
     secret: process.env.ADMIN_JWT_SECRET,
   },
